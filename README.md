@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JangitiRaju88&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-# Hi there, I'm Raju Jangiti‹
+# Hi there, I'm Raju Jangiti
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Designer+%7C+Frontend+Developer;Building+Responsive+%26+Modern+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Turning+Ideas+Into+Beautiful+Interfaces+)](https://git.io/typing-svg)
 
