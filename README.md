@@ -2,26 +2,26 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JangitiRaju88&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-# Hi there, I'm Raju Jangiti ðŸ‘‹
+# Hi there, I'm Raju Jangiti‹
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Designer+%7C+Frontend+Developer;Building+Responsive+%26+Modern+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Turning+Ideas+Into+Beautiful+Interfaces+âœ¨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Designer+%7C+Frontend+Developer;Building+Responsive+%26+Modern+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Turning+Ideas+Into+Beautiful+Interfaces+)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ðŸš€ About Me
+## About Me
 
 I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean, responsive, and visually stunning websites. I specialize in building modern web experiences using the latest frontend technologies and design templates.
 
-- ðŸŽ¨ I design and develop **responsive websites** using HTML, CSS, JavaScript, and React
-- ðŸ–¥ï¸ I create polished websites using **professional templates and themes**
-- ðŸ’¡ Always learning and leveling up my skills in modern web design
-- ðŸ¤ Open to collaborating on **frontend projects and open-source work**
+-I design and develop **responsive websites** using HTML, CSS, JavaScript, and React
+- I create polished websites using **professional templates and themes**
+- I Always learning and leveling up my skills in modern web design
+- Open to collaborating on **frontend projects and open-source work**
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean,
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -54,7 +54,7 @@ I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean,
 
 ---
 
-## ðŸ† GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean,
 
 ---
 
-## ðŸŒ Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -77,10 +77,10 @@ I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean,
 
 <div align="center">
 
-### ðŸ’¬ Let's Connect & Build Something Amazing!
+### Let's Connect & Build Something Amazing!
 
 *"Every great website starts with a single line of code. Let's write something extraordinary together."*
 
-**âœ¨ Thanks for visiting my profile â€” drop a â­ if you like what you see!**
+** Thanks for visiting my profile” drop a comment if you like what you see!**
 
 </div>
